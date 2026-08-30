@@ -17,7 +17,6 @@ Building real websites and AI-powered solutions for real businesses — fast.
 | Project | Industry | Live |
 |---|---|---|
 | Aircorp Limo | Transport · USA 🇺🇸 | [View Site](https://aircorplimo.com) |
-| Aivanta | AI Solutions · PK 🇵🇰 | [View Site](https://aivanta-j3bnk6m3q-aroosha-khalid-s-projects.vercel.app) |
 | AR Embroidery House | Wholesale · Lahore 🇵🇰 | [View Site](https://ar-embroidery-house.vercel.app) |
 
 ---
